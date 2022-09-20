@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mccm-mint-v2/static/css/main.073c9b0a.css",
+    "main.js": "/mccm-mint-v2/static/js/main.47241107.js",
+    "index.html": "/mccm-mint-v2/index.html",
+    "main.073c9b0a.css.map": "/mccm-mint-v2/static/css/main.073c9b0a.css.map",
+    "main.47241107.js.map": "/mccm-mint-v2/static/js/main.47241107.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.47241107.js"
+  ]
+}
